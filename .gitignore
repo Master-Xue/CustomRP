@@ -63,3 +63,7 @@ BasicPrinciple/Logs/
 BasicPrinciple/obj/
 BasicPrinciple/.vsconfig
 BasicPrinciple/Temp/
+CustomRP/.vsconfig
+CustomRP/Library/
+CustomRP/Logs/
+CustomRP/Temp/
