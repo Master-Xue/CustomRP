@@ -1,4 +1,4 @@
-Shader "Unlit/MyFirstShader"
+Shader "Custom/MyFirstShader"
 {
     Properties
     {
